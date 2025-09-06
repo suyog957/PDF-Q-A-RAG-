@@ -1,0 +1,13 @@
+
+torch
+torchvision
+torchaudio
+PyPDF2 
+langchain 
+transformers 
+faiss-gpu 
+dotenv
+langchain-community
+sentence-transformers
+langchain-huggingface
+huggingface-cli login
